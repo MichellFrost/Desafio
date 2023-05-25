@@ -1,0 +1,48 @@
+body{
+    background-color: rgba(64, 112, 148);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+    
+}
+.box{
+    border: solid 1px  rgb(42, 77, 105);
+    border-radius: 5px;
+    align-items: center;
+    padding: 25px;
+    background-color: rgb(42, 77, 105);
+    box-shadow: 5px 5px 5px 5px cornflowerblue;
+    
+    
+}
+
+.login{
+    line-height: 22px;
+    
+}
+
+.figure{
+    text-align: center;
+    padding: 25px;
+    
+    
+}
+
+.send{
+    background-color: rgb(240, 166, 7);
+    border-radius: 5px;
+    line-height: 30px;
+}
+
+p, h1, label{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    
+    
+}
+
+footer{
+    background-color: rgb(6, 243, 243);
+    
+}
