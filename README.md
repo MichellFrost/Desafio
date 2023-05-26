@@ -1,2 +1,2 @@
-# Desafio feito para estudos
+# Desafio  feito para meu estudo
 # Pontos a melhorar
